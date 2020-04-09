@@ -1,0 +1,19 @@
+Hola mundo desde mi compu
+
+Este archivo se llama prueba.txt y esta guardado en una carpeta vacia
+
+iterm (terminal de mac, reemplaza la git en las macs)
+
+cd (change directory)
+
+git --version (para ver la version de git que estoy usando)
+
+dir / cls * *se usa para limpiar el git
+ls / clear *
+------
+windows // dir
+------
+unix // ls
+	mac
+	linux
+------	
