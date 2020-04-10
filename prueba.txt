@@ -1,8 +1,10 @@
-Hola mundo desde mi compu
+Hola mundo desde git hub
 
 Este archivo se llama prueba.txt y esta guardado en una carpeta vacia
 
 iterm (terminal de mac, reemplaza la git en las macs)
+
+modifique este archivo haciendo otra cosa
 
 cd (change directory)
 
